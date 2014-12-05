@@ -1,0 +1,6 @@
+#!/bin/sh
+cat << EOF
+---
+config_vars:
+  PATH: bin:/usr/bin:/bin
+EOF
